@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "メズマライザー（feat. 初音ミク、重音テト）",
+  "base_artist": "サツキ",
+  "createdAt": "2026-03-02T04:27:42.838814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "Satsuki",
+      "has_synced": true,
+      "path": "select/01_メズマライザー_(feat._初音ミク&重音テト)_Satsuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "Satsuki, Hatsune Miku, 重音テト",
+      "has_synced": true,
+      "path": "select/02_メズマライザー_(feat._初音ミク&重音テト)_Satsuki,_Hatsune_Miku,_重音テト.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "32ki",
+      "has_synced": true,
+      "path": "select/03_メズマライザー_(feat._初音ミク&重音テト)_32ki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "32ki; Hatsune Miku; 重音テト",
+      "has_synced": true,
+      "path": "select/04_メズマライザー_(feat._初音ミク&重音テト)_32ki;_Hatsune_Miku;_重音テト.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "32ki",
+      "has_synced": true,
+      "path": "select/05_メズマライザー_(feat._初音ミク&重音テト)_32ki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "サツキ",
+      "has_synced": true,
+      "path": "select/06_メズマライザー_(feat._初音ミク&重音テト)_サツキ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト) (Paused)",
+      "artist": "32ki",
+      "has_synced": true,
+      "path": "select/07_メズマライザー_(feat._初音ミク&重音テト)_(Paused)_32ki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク & 重音テト)",
+      "artist": "32ki, Hatsune Miku, Kasane Teto",
+      "has_synced": true,
+      "path": "select/08_メズマライザー_(feat._初音ミク_&_重音テト)_32ki,_Hatsune_Miku,_Kasane_Teto.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "サツキ, 初音ミク, 重音テト",
+      "has_synced": true,
+      "path": "select/09_メズマライザー_(feat._初音ミク&重音テト)_サツキ,_初音ミク,_重音テト.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メズマライザー feat. 初音ミク, 重音テト",
+      "artist": "サツキ",
+      "has_synced": true,
+      "path": "select/10_メズマライザー_feat._初音ミク,_重音テト_サツキ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "32ki/Hatsune Miku/重音テト",
+      "has_synced": true,
+      "path": "select/11_メズマライザー_(feat._初音ミク&重音テト)_32ki_Hatsune_Miku_重音テト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メズマライザー (feat. 初音ミク&重音テト)",
+      "artist": "サツキ",
+      "has_synced": false,
+      "path": "select/pl_01_メズマライザー_(feat._初音ミク&重音テト)_サツキ.txt"
+    }
+  ]
+}
